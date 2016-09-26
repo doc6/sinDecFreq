@@ -1,0 +1,1 @@
+sinefnDecFreq.d: ../sinefnDecFreq.c
